@@ -8,9 +8,13 @@
 - **💞️ I’m looking to collaborate on ...**
 -     BLDC Driver, low cost RF application 
 - **📫 How to reach me ...**
+- 
 [My Facebook page](https://www.facebook.com/cp3196x04/)
+
 [Kenny's Blog: sharing things I learned during development](https://labujuice.github.io/my_blog/)
+
 <kennycym@gmail.com>
+
 
 <!---
 Labujuice/Labujuice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
