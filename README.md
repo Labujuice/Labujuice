@@ -1,9 +1,18 @@
-- **👋 Hi, I’m Kenny, 31**
+- **👋 Hi, I’m Kenny**
 
-  Bachelor: TKU AERO
+  Wellcom to my Github page. I will share the things I learn from commnunity.
 
-  Master: NCKU DAA
+- **:office: Experience and :school: Education**
 
+  2015~now, Coretronic Corp, Hsinchu, Taiwan.  
+  Firmware Engineer.
+  
+  2013-15, National Cheng Kung University (NCKU), Tainan City, Taiwan  
+  Master, Aeronautics & Astronautics Engineering.  
+  
+  2009-13, Tamkang University (TKU), New Taipei City, Taiwan  
+  Bachelor, Aerospace Engineering  
+  
 - **👀 I’m interested in ...**
 
   Motor drivers, controllers and state estimator...
