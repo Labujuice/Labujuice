@@ -57,7 +57,7 @@
       Thesis, [Design of an Automatic Landing System Based on Adaptive Fuzzy Logic Control for Fixed-Wing Unmanned Aerial Vehicles](http://etds.lib.ncku.edu.tw/etdservice/view_metadata?etdun=U0026-0508201508255900&query_field1=keyword&query_word1=%E9%99%8D%E8%90%BD)
     - Skills
       - Flight dynamics
-      - Avionics System Integrated
+      - Avionics System Integration
       - Fuzzy controller
       - C/CPP coding and Linux based embeded system operation
   - 2009-13, Tamkang University (TKU), New Taipei City, Taiwan  
