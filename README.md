@@ -1,7 +1,8 @@
 - **👋 Hi, I’m Kenny**
 
-  Possessing over ten years of experience in the drone industry, successfully transitioned from Firmware Engineer to Software Development Manager, demonstrating exceptional technical leadership and project management capabilities. Analyzes market trends with a strategic perspective, exhibits a strong passion for drone products, and takes the lead in directing R&D strategies. Skilled in cross-departmental coordination and communication, leading teams to efficiently complete complex hardware and software integration projects, and actively promotes technical innovation and teamwork to continuously optimize product quality and development processes.
+  Possessing over ten years of experience in the drone industry, successfully transitioned from Firmware Engineer to Software Development Manager, demonstrating exceptional technical leadership and project management capabilities. Analyzed market trends with a strategic perspective, exhibited a strong passion for drone products, and took the lead in directing R&D strategies. Skilled in cross-departmental coordination and communication, leading teams to efficiently complete complex hardware and software integration projects, and actively promotes technical innovation and teamwork to continuously optimize product quality and development processes.
 
+  
   具備十年以上無人機產業經驗，成功由韌體工程師轉型為軟體開發經理，展現卓越技術領導與專案管理能力。以策略性眼光分析市場趨勢，對無人機產品充滿熱忱並主導研發策略方向。擅長跨部門協調溝通，帶領團隊高效完成複雜軟硬體整合專案，並積極推動技術創新與團隊合作，持續優化產品品質與開發流程。
 
 - **:office: Experience and :school: Education**
