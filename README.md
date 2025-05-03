@@ -76,12 +76,11 @@
 
 - **📫 How to reach me ...**
 
-  [My Facebook page](https://www.facebook.com/cp3196x04/)
-
+  - [My Facebook page](https://www.facebook.com/cp3196x04/)
 <!---
   [Kenny's Blog: sharing things I learned during development](https://labujuice.github.io/my_blog/)
 --->
-  <kennycym@gmail.com>
+  - <kennycym@gmail.com>
 
 
 <!---
